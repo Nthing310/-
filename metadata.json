@@ -1,0 +1,6 @@
+{
+  "name": "南京航空航天大学学生信息管理系统",
+  "description": "南京航空航天大学（NUAA）学生信息管理系统，提供教务人员和辅导员专属登录认证、本校本科生与研究生学籍信息列表查询、新生学籍录入与校验、学籍详情核对等全流程核心管理能力。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
